@@ -1,0 +1,6 @@
+aiogram==2.10.1
+python-dotenv~=0.14.0
+gpiozero~=1.5.1
+adafruit-circuitpython-dht==3.5.1
+pigpio
+
